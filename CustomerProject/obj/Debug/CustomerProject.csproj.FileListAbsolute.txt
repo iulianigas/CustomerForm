@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\CustomerProject\CustomerProject\bin\Debug\CustomerProject.exe.config
+C:\Users\ASUS\source\repos\CustomerProject\CustomerProject\bin\Debug\CustomerProject.exe
+C:\Users\ASUS\source\repos\CustomerProject\CustomerProject\bin\Debug\CustomerProject.pdb
+C:\Users\ASUS\source\repos\CustomerProject\CustomerProject\obj\Debug\CustomerProject.Form1.resources
+C:\Users\ASUS\source\repos\CustomerProject\CustomerProject\obj\Debug\CustomerProject.Properties.Resources.resources
+C:\Users\ASUS\source\repos\CustomerProject\CustomerProject\obj\Debug\CustomerProject.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CustomerProject\CustomerProject\obj\Debug\CustomerProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CustomerProject\CustomerProject\obj\Debug\CustomerProject.exe
+C:\Users\ASUS\source\repos\CustomerProject\CustomerProject\obj\Debug\CustomerProject.pdb
+C:\Users\ASUS\source\repos\CustomerProject\CustomerProject\obj\Debug\CustomerProject.csprojAssemblyReference.cache
